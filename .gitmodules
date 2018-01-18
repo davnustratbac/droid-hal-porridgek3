@@ -1,0 +1,6 @@
+[submodule "droid-hal-device"]
+	path = droid-hal-device
+	url = https://github.com/mer-hybris/droid-hal-device
+[submodule "dhd"]
+	path = dhd
+	url = https://github.com/mer-hybris/droid-hal-device
